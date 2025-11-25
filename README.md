@@ -1,125 +1,109 @@
+<!-- Header Section -->
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DHardik%2520Joshi%26fontSize%3D90%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DFull-Stack%2520Developer%2520%257C%2520Problem%2520Solver%2520%257C%2520Tech%2520Enthusiast%26descAlignY%3D51%26descAlign%3D62" alt="Header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D250%26section%3Dheader%26text%3DHardik%2520Joshi%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Developer%2520%257C%2520Java%2520%257C%2520Python%2520%257C%2520React%26descAlignY%3D55%26descAlign%3D50%26fontColor%3Dffffff" width="100%" alt="Hardik Joshi Header" />
+
+<br />
 
 <!-- Typing Animation -->
 
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D25%26pause%3D1000%26color%3D3382F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DBuilding%2BScalable%2BWeb%2BApps%3BExploring%2BCloud%2BArchitectures%3BAutomating%2BWorkflows%2Bwith%2BPython%3BAlways%2BLearning,%2BAlways%2BCoding" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26duration%3D3500%26pause%3D1000%26color%3D58A6FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DTurning%2Bcoffee%2Binto%2Bcode...%3BBuilding%2Bscalable%2Bsolutions.%3BExploring%2BAI%2Band%2BCloud%2BTech.%3BWelcome%2Bto%2Bmy%2Bprofile!%2B%25F0%259F%259A%2580" alt="Typing SVG" />
 </a>
+</div>
 
-<!-- Social Links (Large) -->
-
-<p>
+<div align="center">
+<!-- Social Badges -->
 <a href="https://www.google.com/search?q=https://linkedin.com/in/ReachOutToHardik" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:joshil4hardik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.google.com/search?q=https://github.com/ReachOutToHardik" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
 </a>
-</p>
+</div>
 
-<!-- Trophies -->
+<br />
+
+<!-- About Me Section -->
 
 ⚡ About Me
 
-<img align="right" src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
+I'm a BCA student based in Jodhpur, Rajasthan. I specialize in building full-stack applications and have a knack for automating boring tasks with Python.
 
-I am a BCA student at Lachoo Memorial College with a passion for turning complex problems into elegant code. My journey involves everything from building full-stack applications to automating daily tasks with Python scripts.
+🔭 I’m currently working on Attendance Systems & Automation Tools.
 
-🔭 Working on: Full-Stack Web Apps (MERN Stack)
+🌱 I’m learning Generative AI and Cloud Architecture.
 
-🌱 Learning: Generative AI & Cloud Native Tech
+💡 I love solving problems using Java, Python, and C++.
 
-💬 Ask me about: Java, Python, React, and System Design
+🎯 Goal: To build impactful software that simplifies lives.
 
-📫 How to reach me: joshil4hardik@gmail.com
+<!-- Tech Stack Section with Premium Icons -->
 
-<br clear="right"/>
-
-💻 Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
-
-Core
-
-Frontend
-
-Backend & DB
-
-DevOps & Tools
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,cpp,js,html,css,react,nodejs,express,fastapi,flask,firebase,gcp,git,github,vscode,idea%26perline%3D9" alt="Tech Stack Icons" />
+</a>
 </div>
 
-🚀 Featured Projects
+<!-- Projects Section -->
+
+🚀 Top Projects
 
 Project
 
-Type
+Stack
 
 Description
 
-📚 Attendance System
+Attendance System
 
-Full Stack
+Node.js GCP
 
-Automated attendance tracking synced with Google Sheets & Cloud. Reduced manual work by 60%.
+Automated attendance tracking synced with Google Sheets. Reduced manual work by 60%.
 
-📜 Cert Generator
+Cert Generator
 
-Automation
+Node.js APIs
 
-Node.js system that auto-generates & emails certificates. Cut processing time by 70%.
+Auto-generates & emails event certificates. Cut processing time by 70%.
 
-☁️ Weather App
+Weather App
 
-Frontend
+JS Rest API
 
-Real-time weather forecasting dashboard connecting to OpenWeather API.
+Real-time weather dashboard fetching live data from OpenWeather API.
 
-🤖 Terminal AI Bot
+Terminal AI Bot
 
-CLI Tool
+Python AI
 
-A Python-based command-line AI assistant powered by OpenRouter.
+A CLI tool for quick queries powered by OpenRouter AI.
 
-📊 GitHub Statistics
+<!-- GitHub Stats Section -->
+
+📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DReachOutToHardik%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" height="180" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DReachOutToHardik%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D6" height="180" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DReachOutToHardik%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="170" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DReachOutToHardik%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26langs_count%3D6" height="170" alt="Top Languages" />
 </div>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DReachOutToHardik%26theme%3Dradical%26hide_border%3Dtrue" alt="streak graph" />
-</div>
+<br />
+
+<!-- Snake Animation -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DReachOutToHardik%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation" />
 </div>
