@@ -112,7 +112,7 @@ A Python-based command-line AI assistant powered by OpenRouter.
 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DReachOutToHardik%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DReachOutToHardik%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" height="180" alt="stats graph" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DReachOutToHardik%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D6" height="180" alt="languages graph" />
 </div>
 
