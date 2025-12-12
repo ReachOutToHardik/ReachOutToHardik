@@ -45,14 +45,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-*   **Attendance System** 🏫 - A full-stack web application enabling teachers to efficiently mark and manage student attendance with Google Sheets integration.
-*   **Event & Certificates Generator** 📜 - Automated event registration and certificate creation using Node.js and Google Workspace APIs, significantly reducing processing time.
-*   **Terminal AI Bot** 🤖 - A Python-based command-line tool powered by OpenRouter APIs for rapid query handling and information retrieval.
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
